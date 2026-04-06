@@ -1,0 +1,2 @@
+Main-Class: SplashScreen
+Class-Path: mysql.jar
